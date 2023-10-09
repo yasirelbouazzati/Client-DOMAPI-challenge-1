@@ -7,7 +7,6 @@
 
    - How would you select from JavaScript a `button` element with class `button` and that is disabled?
       const disabledButton = document.querySelector('button.button:disabled')
-      const disabledButtons = document.querySelectorAll('button.button:disabled')
 
 
    - How would you select from JavaScript all the `li` elements that are direct children of an `ul` element with class `list`?
